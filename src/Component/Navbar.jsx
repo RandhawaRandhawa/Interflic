@@ -81,13 +81,6 @@ const Navbar = () => {
                     Pricing
                     </Link>
                   </li>
-                  <li>
-                    <Link
-                      to={"/BlogPage"}
-                    >
-                    Blog
-                    </Link>
-                  </li>
                 </ul>
               </nav>
             </div>
